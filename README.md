@@ -1,8 +1,8 @@
-# vue_poj_02
+# 基于Vue的 物流后台管理系统
 
-## Project setup
+## 采用技术
 ```
-npm install
+Vue Element UI Axios Echarts Less
 ```
 
 ### Compiles and hot-reloads for development

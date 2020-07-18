@@ -1,0 +1,21 @@
+/*全局样式表css*/
+html,
+body,
+#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.el-card{
+    margin-top: 15px;
+}
+.el-table {
+    margin-top: 15px;
+    font-size: 14px;
+}
+.el-step__title{
+    font-size: 13px !important;
+}
+.ql-editor{
+    min-height: 300px;
+}
